@@ -1,0 +1,17 @@
+DASHBOARD
+
+https://public.tableau.com/views/Challenge1-Dashboard_16625613460970/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+History
+
+https://public.tableau.com/views/Challenge1-History/Football?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+Bonus 1
+
+https://public.tableau.com/views/Bonus1_16625627066400/Bonus1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+Bonus 2
+
+https://public.tableau.com/views/Bonus2_16625628225620/Bonus2?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
